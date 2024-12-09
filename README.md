@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi 
+
+I'm a social statistics analyst and PhD student, specialising in multilevel modelling methods for the social sciences. I do research into social, economic and health inequalities in the widest sense. 
+
+I'm an expert user of Stata, and I know a bit of R and Python. I'm an amateur at Github. 
+
+You can read more about my PhD research at www.kateohararesearch.uk .
 
 <!--
 **oharakate/oharakate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
